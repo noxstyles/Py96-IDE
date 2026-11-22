@@ -32,6 +32,25 @@
 
 Для установки плагинов нужен интернет. Пакеты загружаются из официального репозитория [Termux](https://termux.dev).
 
+## Скриншоты
+
+<p align="center">
+  <img src="docs/main.jpg" width="30%" alt="Главный экран">
+  <img src="docs/edit.jpg" width="30%" alt="Редактор кода">
+  <img src="docs/terminal.jpg" width="30%" alt="Встроенный терминал">
+</p>
+
+<p align="center">
+  <img src="docs/vetka.jpg" width="30%" alt="Git-панель">
+  <img src="docs/tgbotserver.jpg" width="30%" alt="Telegram-бот">
+  <img src="docs/dop1.jpg" width="30%" alt="Дополнительный экран">
+</p>
+
+<p align="center">
+  <img src="docs/dop2.jpg" width="30%" alt="Дополнительный экран">
+  <img src="docs/dop3.jpg" width="30%" alt="Дополнительный экран">
+</p>
+
 ## Требования
 
 - Android 8.1 или новее (API 27+).
